@@ -1,0 +1,8 @@
+trial_number,macro_f1,model_complexity,total_samples,num_features,max_nodes,trees,min_leaf,sampling,feature_strat,train_fraction
+34,0.797265665837366,10539000000.0,,36,625,50,11,reference_balanced,uncorrelated,0.1
+15,0.8013346903296958,27274932000.0,,36,647,125,10,reference_balanced,uncorrelated,0.1
+27,0.8202575100798215,42872652000.0,,36,1017,125,5,reference_balanced,uncorrelated,0.1
+33,0.9042352504204427,43711178000.0,,70,667,100,7,stratified,all,0.1
+3,0.9279124360684764,60615205200.0,,36,1199,150,3,stratified,uncorrelated,0.1
+24,0.945451266322918,87588972000.0,,32,1299,75,9,stratified,all,0.30000000000000004
+9,0.9835424428603592,399573577000.0,,13,2917,125,7,stratified,all,0.9
