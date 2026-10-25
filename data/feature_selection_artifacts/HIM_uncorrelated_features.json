@@ -6,10 +6,10 @@
     "aspect_cos",
     "aspect_sin",
     "bci_mad",
-    "blue_mad",
     "elevation",
     "evi2_mad",
     "hand",
+    "ibi_mad",
     "lat",
     "lon",
     "mndwi_mad",
@@ -17,7 +17,6 @@
     "mndwi_swing",
     "mosaic_version",
     "ndfi_mad",
-    "ndmi_mad",
     "ndmi_median",
     "ndmi_swing",
     "ndvi_mad",
@@ -33,10 +32,11 @@
     "slope",
     "swir1_mad",
     "swir2_swing",
-    "tcw_median_dry"
+    "tcw_median"
   ],
   "dropped_features": [
     "bci_median",
+    "blue_mad",
     "blue_median",
     "blue_median_dry",
     "blue_median_wet",
@@ -55,7 +55,6 @@
     "gv_median_dry",
     "gv_median_wet",
     "gv_swing",
-    "ibi_mad",
     "ibi_median",
     "mndwi_median",
     "mndwi_median_dry",
@@ -63,6 +62,7 @@
     "ndfi_median_dry",
     "ndfi_median_wet",
     "ndfi_swing",
+    "ndmi_mad",
     "ndmi_median_dry",
     "ndmi_median_wet",
     "ndvi_median_dry",
@@ -106,7 +106,7 @@
     "tcg_median_wet",
     "tcg_swing",
     "tcw_mad",
-    "tcw_median",
+    "tcw_median_dry",
     "tcw_median_wet",
     "tcw_swing"
   ]

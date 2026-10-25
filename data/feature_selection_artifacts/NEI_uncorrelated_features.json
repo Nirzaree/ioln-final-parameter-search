@@ -7,6 +7,7 @@
     "aspect_sin",
     "bci_mad",
     "elevation",
+    "evi2_mad",
     "gv_swing",
     "hand",
     "lat",
@@ -37,7 +38,6 @@
     "swir1_swing",
     "swir2_mad",
     "tcb_swing",
-    "tcg_mad",
     "tcw_median_dry"
   ],
   "dropped_features": [
@@ -47,7 +47,6 @@
     "blue_median_dry",
     "blue_median_wet",
     "blue_swing",
-    "evi2_mad",
     "evi2_median",
     "evi2_median_dry",
     "evi2_median_wet",
@@ -101,6 +100,7 @@
     "tcb_median",
     "tcb_median_dry",
     "tcb_median_wet",
+    "tcg_mad",
     "tcg_median",
     "tcg_median_dry",
     "tcg_median_wet",
