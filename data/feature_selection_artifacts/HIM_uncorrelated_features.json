@@ -1,7 +1,7 @@
 {
   "region": "HIM",
   "corr_threshold": 0.8,
-  "total_raw_features": 104,
+  "total_raw_features": 103,
   "uncorrelated_features": [
     "aspect_cos",
     "aspect_sin",
@@ -15,7 +15,6 @@
     "mndwi_mad",
     "mndwi_median_wet",
     "mndwi_swing",
-    "mosaic_version",
     "ndfi_mad",
     "ndmi_median",
     "ndmi_swing",

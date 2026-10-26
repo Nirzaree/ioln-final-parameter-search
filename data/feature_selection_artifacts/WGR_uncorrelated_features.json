@@ -1,10 +1,8 @@
 {
   "region": "WGR",
   "corr_threshold": 0.8,
-  "total_raw_features": 106,
+  "total_raw_features": 103,
   "uncorrelated_features": [
-    "BareEarth",
-    "StableWater",
     "aspect_cos",
     "aspect_sin",
     "bci_mad",
@@ -18,7 +16,6 @@
     "lon",
     "mndwi_mad",
     "mndwi_swing",
-    "mosaic_version",
     "ndfi_mad",
     "ndmi_mad",
     "ndmi_median_wet",
